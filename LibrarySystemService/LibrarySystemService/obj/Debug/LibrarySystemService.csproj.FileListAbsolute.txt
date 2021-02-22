@@ -1,0 +1,6 @@
+C:\Users\Me\source\repos\LibrarySystemService\LibrarySystemService\obj\Debug\LibrarySystemService.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\LibrarySystemService\LibrarySystemService\bin\Debug\LibrarySystemService.dll.config
+C:\Users\Me\source\repos\LibrarySystemService\LibrarySystemService\bin\Debug\LibrarySystemService.dll
+C:\Users\Me\source\repos\LibrarySystemService\LibrarySystemService\bin\Debug\LibrarySystemService.pdb
+C:\Users\Me\source\repos\LibrarySystemService\LibrarySystemService\obj\Debug\LibrarySystemService.dll
+C:\Users\Me\source\repos\LibrarySystemService\LibrarySystemService\obj\Debug\LibrarySystemService.pdb
